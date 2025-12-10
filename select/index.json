@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "め組のひと (2025 Ver.)",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-10T14:11:20.427147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "RATS & STAR",
+      "has_synced": false,
+      "path": "select/01_め組のひと_RATS_&_STAR.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/02_め組のひと_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "ラッツ & スター",
+      "has_synced": true,
+      "path": "select/03_め組のひと_ラッツ_&_スター.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "RATS & STAR",
+      "has_synced": true,
+      "path": "select/04_め組のひと_RATS_&_STAR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "Risk",
+      "has_synced": false,
+      "path": "select/05_め組のひと_Risk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "ラッツ&スター",
+      "has_synced": true,
+      "path": "select/06_め組のひと_ラッツ&スター.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/07_め組のひと_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/08_め組のひと_倖田來未.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "ラッツ&スター",
+      "has_synced": false,
+      "path": "select/09_め組のひと_ラッツ&スター.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "め組のひと",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/10_め組のひと_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "め組のひと (Live)",
+      "artist": "Koda Kumi (倖田來未)",
+      "has_synced": false,
+      "path": "select/11_め組のひと_(Live)_Koda_Kumi_(倖田來未).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "め組のひと(KODA KUMI LIVE TOUR 2011〜Dejavu〜)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/12_め組のひと(KODA_KUMI_LIVE_TOUR_2011〜Dejavu〜)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "め組のひと (ETERNITY〜Love&Songs〜LIVE)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/13_め組のひと_(ETERNITY〜Love&Songs〜LIVE)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "め組のひと -30TH ANNIVERSARY LIVE-",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/14_め組のひと_-30TH_ANNIVERSARY_LIVE-_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "め組のひと - Me Gumino Hito",
+      "artist": "Rats & Star",
+      "has_synced": true,
+      "path": "select/15_め組のひと_-_Me_Gumino_Hito_Rats_&_Star.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "め組のひと",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_め組のひと_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "め組のひと",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_め組のひと_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "め組のひと",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_め組のひと_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "め組のひと (2025 Ver.)",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_04_め組のひと_(2025_Ver.)_鈴木_雅之.txt"
+    }
+  ]
+}
